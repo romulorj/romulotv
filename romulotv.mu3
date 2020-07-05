@@ -6,8 +6,8 @@
 #EXTINF:-1,iptvtools_18 tvg-logo="https://www.underconsideration.com/speakup/archives/USAOld_New1.jpg" group-title="VARIADOS TESTE" pltv-subgroup="TESTES", XXX NOME DO CANAL, EXEMPLO DBZ EPISODIO 1 XXX
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1,iptvtools_41
-https://cdn3.wowza.com/1/V0d4WDJWSEFtYlhp/V1FuV0Np/hls/r7fkjslg/1728/0008fyca/media_25427.ts
+#EXTINF:-1,iptvtools_DUVAL_ST
+https://cdn3.wowza.com/1/V0d4WDJWSEFtYlhp/V1FuV0Np/hls/r7fkjslg/1728/chunklist.m3u8
 #EXTINF:-1,iptvtools_46
 https://lh3.googleusercontent.com/jMvTOhSqsyEYh7FKHJfAdr_JEmrOJLbSW2L9JhfslIOZz9ythxXkBkBBrQdGa8GOTEb-=w300
 #EXTINF:-1,iptvtools_48
