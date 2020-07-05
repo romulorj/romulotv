@@ -10,7 +10,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 https://cdn3.wowza.com/1/V0d4WDJWSEFtYlhp/V1FuV0Np/hls/r7fkjslg/1728/chunklist.m3u8
 
 #EXTINF:-1,DUVAL ST CAM02
-https://videos-3.earthcam.com/fecnetwork/14287.flv/chunklist_w571021468.m3u8
+https://videos-3.earthcam.com/fecnetwork/14287.flv/playlist.m3u8
 
 #EXTINF:-1,iptvtools_48
 https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScUK2y3eCwFp5BahLainI7TM0_LCjBUis6fe_a2n7LNz66UFnLWzTTj2k
